@@ -23,7 +23,8 @@ class App extends Component {
           <br></br>
           <br></br>
           <img src={screen1} className="App-Screens-Element" alt="logo" />
-            <p>He wants to turn errbody into pigeons! Punch his lights out and save Ultra Light City! </p>
+            <p>He wants to turn 'errrbody' into pigeons! Punch his lights out and save Ultra Light City! </p>
+            <br></br>
             <br></br>
             <br></br>
             <br></br>
