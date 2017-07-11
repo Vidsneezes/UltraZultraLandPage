@@ -19,11 +19,7 @@ class App extends Component {
           <img src={finalScene} className="App-logo" alt="logo" />
           <br></br>
           <br></br>
-          <br></br>
-          <p>
-            The Evil Peak Master has escaped the nega jail!</p>
-            <br></br>
-          <br></br>
+          <p className="App-P-Opener">The Evil Peak Master has escaped the nega jail!</p>
           <br></br>
           <br></br>
           <img src={screen1} className="App-Screens-Element" alt="logo" />
