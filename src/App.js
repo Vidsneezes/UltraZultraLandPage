@@ -29,7 +29,8 @@ class App extends Component {
             <br></br>
             <br></br>
             <br></br>
-          <img src={screen1} className="App-Screens-Element" alt="logo" />
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/Qxpx2kvK5CI" frameborder="0" allowfullscreen></iframe>
+         
             <p>Using a combination of wits and items, 
             you must pass through procedurally generated stages.
             <br></br>
@@ -48,6 +49,9 @@ class App extends Component {
                 <li>Air Dash across deadly spikes. </li>
                 <li>Zany combinations each play through</li>
               </ul>
+            </div>
+            <div>
+             Coming To PC!
             </div>
             <br></br>
             <br></br>
