@@ -22,14 +22,14 @@ class App extends Component {
           <p className="App-P-Opener">The Evil Peak Master has escaped the nega jail!</p>
           <br></br>
           <br></br>
-          <img src={screen1} className="App-Screens-Element" alt="logo" />
+          <img src={attackGif} className="App-Screens-Element" alt="logo" />
             <p>He wants to turn 'errrbody' into pigeons! Punch his lights out and save Ultra Light City! </p>
             <br></br>
             <br></br>
             <br></br>
             <br></br>
             <br></br>
-          <img src={attackGif} className="App-Screens-Element" alt="logo" />
+          <img src={screen1} className="App-Screens-Element" alt="logo" />
             <p>Using a combination of wits and items, 
             you must pass through procedurally generated stages.
             <br></br>
