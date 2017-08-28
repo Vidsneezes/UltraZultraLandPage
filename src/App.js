@@ -22,31 +22,29 @@ class App extends Component {
           <img src={finalScene} className="App-logo" alt="logo" />
           <br></br>
           <br></br>
-          <p className="App-P-Opener">The Evil Peak Master has escaped the nega jail!</p>
+          <p className="App-P-Opener">Dash Punch the Evil Peak Society to stomp them from making errr'body into pigeons!
+          </p>
+          <br></br>
+          <br></br>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/Qxpx2kvK5CI" frameborder="0" allowfullscreen></iframe>
+          <p>Check out this gameplay montage!</p>
           <br></br>
           <br></br>
           <img src={attackGif} className="App-Screens-Element" alt="logo" />
-            <p>He wants to turn 'errrbody' into pigeons! Punch his lights out and save Ultra Light City! </p>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/Qxpx2kvK5CI" frameborder="0" allowfullscreen></iframe>
-         
-            <p>Using a combination of wits and items, 
-            you must pass through procedurally generated stages.
-            <br></br>
-            Collect valuable gems fragments to gain new powers!</p>
-            <br></br>
+          <br></br>
+          <br></br>
+            <p>Punch their lights out and save Ultra Light City! </p>
             <br></br>
             <br></br>
             <br></br>
             <img src={aviaryYo} className="App-Screens-Element" alt="logo" />
+            <p>Using a combination of wits and items, 
+            clear stages to reach them!</p>
             <br></br>
             <br></br>
             <br></br>
             <img src={bossHit} className="App-Screens-Element" alt="logo" />
+            <p>Collect valuable gems fragments to gain new powers! And defeat the Evil Peak Society</p>
             <div className="App-List">
               <ul>
                 Also...
