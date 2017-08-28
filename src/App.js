@@ -5,6 +5,9 @@ import screen1 from './images/ScreenShot_1.png';
 import screen2 from './images/ScreenShot_2.png';
 import pixelIcon from './images/PromoIconPoster.png';
 import attackGif from './images/QuickAttackCombo.gif';
+import savingDay from './images/SavingTheDay.gif';
+import aviaryYo from './images/AviaryYo.gif';
+import bossHit from './images/BossHit.gif';
 
 
 class App extends Component {
@@ -39,7 +42,11 @@ class App extends Component {
             <br></br>
             <br></br>
             <br></br>
-            <img src={screen2} className="App-Screens-Element" alt="logo" />
+            <img src={aviaryYo} className="App-Screens-Element" alt="logo" />
+            <br></br>
+            <br></br>
+            <br></br>
+            <img src={bossHit} className="App-Screens-Element" alt="logo" />
             <div className="App-List">
               <ul>
                 Also...
