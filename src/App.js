@@ -26,7 +26,7 @@ class App extends Component {
           </p>
           <br></br>
           <br></br>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/Qxpx2kvK5CI" frameborder="0" allowfullscreen></iframe>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/6KZa8tDlVhM" frameborder="0" allowfullscreen></iframe>
           <p>Check out this gameplay montage!</p>
           <br></br>
           <br></br>
