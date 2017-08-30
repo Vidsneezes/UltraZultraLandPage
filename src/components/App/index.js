@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
-import './App.css';
+import classnames from 'classnames';
+import {Link} from 'react-router-dom';
+
 import finalScene from './images/FinalSceneWithTitle copy.png';
 import screen1 from './images/ScreenShot_1.png';
 import screen2 from './images/ScreenShot_2.png';
@@ -8,6 +10,8 @@ import attackGif from './images/QuickAttackCombo.gif';
 import savingDay from './images/SavingTheDay.gif';
 import aviaryYo from './images/AviaryYo.gif';
 import bossHit from './images/BossHit.gif';
+
+import './style.css';
 
 
 class App extends Component {
@@ -67,7 +71,6 @@ class App extends Component {
               <p>Go to Devlog</p>
             </a>
             </div>
-
             <br></br>
             <br></br>
             <div className="App-Footer">
@@ -77,9 +80,10 @@ class App extends Component {
             <p>This game is being made by <a href="https://twitter.com/Moraleszez">Oscar </a>!</p>
             </div>
             <br></br>
-            <br></br><br></br>
+            <Link to="/presskit">Presskit</Link>
             <br></br>
-      </div>
+            <br></br>
+          </div>
     );
   }
 }
