@@ -139,7 +139,7 @@ class App extends Component {
             <p>This is a game by <a href="https://twitter.com/Moraleszez">Oscar Morales</a>!</p>
             </div>
             <br></br>
-            <Link to="/presskit"><h1 style={headLinerBox}> Presskit</h1></Link>
+            <h1 style={headLinerBox}>Coming Soon Presskit</h1>
             <br></br>
             <br></br>
             </AppPanel>
@@ -147,5 +147,8 @@ class App extends Component {
     );
   }
 }
+
+/*   <Link to="/presskit">
+<h1 style={headLinerBox}>Coming Soon Presskit</h1></Link>*/
 
 export default App;
