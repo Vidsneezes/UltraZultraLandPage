@@ -6,7 +6,6 @@ import PresskitHeader from './PresskitHeader.js';
 import '../../cssresponsive/w3.css';
 
 class Presskit extends Component {
-      
 
       render() {
         const imgStyle = {
