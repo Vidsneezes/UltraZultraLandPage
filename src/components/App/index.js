@@ -93,6 +93,8 @@ class App extends Component {
     return (
       <div className="App">
             <img src={finalScene} style={headerImgStyle} alt="logo" />
+            <p style={punchLine}> Play Now At <a href="http://www.newgrounds.com/portal/view/698998">Newgrounds</a></p>
+            <p style={punchLine}> Buy At <a href="https://vidsneezes.itch.io/ultra-zultra">Itch.io</a></p>
             <p style={punchLine}>Dash Punch the Evil Peak Society to stomp them from making errr'body into pigeons!</p>
             <br></br>
             <br></br>
